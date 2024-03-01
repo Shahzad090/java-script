@@ -17,3 +17,18 @@ console.log(num);
 ++num;
 console.log(num);
 console.log(++num);
+
+var x = 8;
+var y = 7;
+var z = x*y;
+alert (z);
+
+var x = 80;
+var y = 7;
+var z = x*y;
+alert (z);
+
+var x = 66;
+var y = 7;
+var z = x*y;
+alert (z);
