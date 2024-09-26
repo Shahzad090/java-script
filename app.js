@@ -33,7 +33,7 @@ var y = 7;
 var z = x*y;
 alert (z);
 
-// var x = ("i am 15 ");
-// var y = ("yars old");
-// var z = x+y;
-// alert (z);
+var x = ("i am 15 ");
+var y = ("yars old");
+var z = x+y;
+alert (z);
